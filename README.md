@@ -1,5 +1,5 @@
 guessinggame
 
-Date make was run Mi 13. Jul 22:00:44 UTC 2022
+Date make was run Wed 17 Aug 2022
 
-Lines of Code 37 guessinggame.sh
+Lines of Code 24 guessinggame.sh
